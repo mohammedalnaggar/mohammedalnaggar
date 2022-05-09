@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**mohammedalnaggar/mohammedalnaggar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Naggar</h1>
 <h3 align="center">A passionate Cloud/DevOps Engineer from Egypt</h3>
 
