@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **GCP projects**
 
-- 💬 Ask me about **AWS, GCP, Terraform, CI/CD, Cloud Computing**
+- 💬 Ask me about **AWS, GCP, Terraform, CI/CD**
 
 - 📫 How to reach me **mohammed.alnaggar93@gmail.com**
 
